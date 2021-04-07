@@ -1,1 +1,1 @@
-# Genomoe type matching
+# Genome type matching
